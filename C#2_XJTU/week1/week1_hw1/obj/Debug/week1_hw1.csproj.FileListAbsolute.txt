@@ -1,0 +1,7 @@
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\bin\Debug\week1_hw1.exe.config
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\bin\Debug\week1_hw1.exe
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\bin\Debug\week1_hw1.pdb
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\obj\Debug\week1_hw1.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\obj\Debug\week1_hw1.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\obj\Debug\week1_hw1.exe
+C:\Users\awey1\Desktop\Learn\C#\Coursera_Csharp\C#2_XJTU\week1\week1_hw1\obj\Debug\week1_hw1.pdb
