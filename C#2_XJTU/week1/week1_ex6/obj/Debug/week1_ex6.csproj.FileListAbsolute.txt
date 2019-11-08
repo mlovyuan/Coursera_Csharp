@@ -1,6 +1,0 @@
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\bin\Debug\week1_ex6.exe.config
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\bin\Debug\week1_ex6.exe
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\bin\Debug\week1_ex6.pdb
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\obj\Debug\week1_ex6.csproj.CoreCompileInputs.cache
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\obj\Debug\week1_ex6.exe
-C:\Users\awey1\Desktop\Learn\C#\C#2_XJTU\week1_ex6\obj\Debug\week1_ex6.pdb
